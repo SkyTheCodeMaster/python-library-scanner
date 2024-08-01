@@ -1,0 +1,5 @@
+aiocron==1.8
+aiofiles==24.1.0
+aiohttp==3.10.0
+asyncssh==2.15.0
+packaging==24.1
